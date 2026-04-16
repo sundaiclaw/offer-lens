@@ -69,3 +69,9 @@ The Express server serves the built SPA from `dist/client` and exposes `GET /hea
 - No secrets are hardcoded in the repository
 - The app does not enable permissive CORS; in development Vite proxies API requests to the local Express server
 - Offer Lens provides decision support only and should not be treated as legal, tax, or financial advice
+
+## Deployment URLs
+
+- Live app: https://offer-lens-859414203684.us-central1.run.app
+- Sundai page: https://www.sundai.club/projects/adf0f673-41c6-4a5a-8329-5f40e9686beb
+- GitHub repo: https://github.com/sundaiclaw/offer-lens
