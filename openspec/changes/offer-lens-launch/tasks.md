@@ -1,0 +1,3 @@
+- [ ] Build offer + priorities intake UI
+- [ ] Add AI-powered negotiation analysis, risk scan, tradeoff summary, and email draft generation
+- [ ] Verify locally, redeploy onto the reserved Cloud Run service, publish on Sundai, and document final links
